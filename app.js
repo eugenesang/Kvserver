@@ -1,6 +1,6 @@
 const mongoose=require("mongoose");
 const express=require("express");
-const uri="mongodb+srv://eugenesang:24Kmagic@cluster0.wa6ab.mongodb.net/houses?retryWrites=true&w=majority";
+const uri="";// addd your own url link
 const app = express();
 app.use(express.urlencoded({extended:true}));
 app.use(express.json());
