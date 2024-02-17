@@ -1,2 +1,2 @@
 # Kvserver
-Server for kv resident 
+Server for kv marketplace
